@@ -4,7 +4,7 @@
     <string name="username">اسم المستخدم</string>
     <string name="email">البريد الالكتروني</string>
     <string name="Password">كلمة المرور</string>
-    <string name="re_Password">اعادة كتابة كلمة المرور</string>
+    <string name="re_Password">اعادة كلمة المرور</string>
     <string name="phonenumber">رقم الهاتف</string>
     <string name="Address">العنوان</string>
     <string name="SignUp">التسجيل</string>
